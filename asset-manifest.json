@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/hensybex.github.io-moskva-kniga/static/css/main.62b3cd97.css",
-    "main.js": "/hensybex.github.io-moskva-kniga/static/js/main.3ce2a29a.js",
-    "static/js/787.a0848885.chunk.js": "/hensybex.github.io-moskva-kniga/static/js/787.a0848885.chunk.js",
-    "static/media/mainBackground.svg": "/hensybex.github.io-moskva-kniga/static/media/mainBackground.879118754a9d4864dbef.svg",
-    "static/media/Philosopher-Regular.ttf": "/hensybex.github.io-moskva-kniga/static/media/Philosopher-Regular.93c7d8b5efe3f355f3ca.ttf",
-    "static/media/Philosopher-Italic.ttf": "/hensybex.github.io-moskva-kniga/static/media/Philosopher-Italic.f107ae423ac4037b2c1f.ttf",
-    "static/media/Philosopher-Bold.ttf": "/hensybex.github.io-moskva-kniga/static/media/Philosopher-Bold.7e98a8743136a6828ccf.ttf",
-    "static/media/Philosopher-BoldItalic.ttf": "/hensybex.github.io-moskva-kniga/static/media/Philosopher-BoldItalic.e826fd8c668a2dd6f7f8.ttf",
-    "static/media/Oswald-Bold.ttf": "/hensybex.github.io-moskva-kniga/static/media/Oswald-Bold.41669c1e4f6bdc605d26.ttf",
-    "static/media/Oswald-Regular.ttf": "/hensybex.github.io-moskva-kniga/static/media/Oswald-Regular.31bce04a1ae8549b1464.ttf",
-    "static/media/mainBackground.png": "/hensybex.github.io-moskva-kniga/static/media/mainBackground.ea7b131d73197e7a03ea.png",
-    "index.html": "/hensybex.github.io-moskva-kniga/index.html",
-    "main.62b3cd97.css.map": "/hensybex.github.io-moskva-kniga/static/css/main.62b3cd97.css.map",
-    "main.3ce2a29a.js.map": "/hensybex.github.io-moskva-kniga/static/js/main.3ce2a29a.js.map",
-    "787.a0848885.chunk.js.map": "/hensybex.github.io-moskva-kniga/static/js/787.a0848885.chunk.js.map"
+    "main.css": "/static/css/main.729633d7.css",
+    "main.js": "/static/js/main.76633010.js",
+    "static/js/787.a0848885.chunk.js": "/static/js/787.a0848885.chunk.js",
+    "static/media/mainBackground.svg": "/static/media/mainBackground.879118754a9d4864dbef.svg",
+    "static/media/Philosopher-Regular.ttf": "/static/media/Philosopher-Regular.93c7d8b5efe3f355f3ca.ttf",
+    "static/media/Philosopher-Italic.ttf": "/static/media/Philosopher-Italic.f107ae423ac4037b2c1f.ttf",
+    "static/media/Philosopher-Bold.ttf": "/static/media/Philosopher-Bold.7e98a8743136a6828ccf.ttf",
+    "static/media/Philosopher-BoldItalic.ttf": "/static/media/Philosopher-BoldItalic.e826fd8c668a2dd6f7f8.ttf",
+    "static/media/Oswald-Bold.ttf": "/static/media/Oswald-Bold.41669c1e4f6bdc605d26.ttf",
+    "static/media/Oswald-Regular.ttf": "/static/media/Oswald-Regular.31bce04a1ae8549b1464.ttf",
+    "static/media/mainBackground.png": "/static/media/mainBackground.ea7b131d73197e7a03ea.png",
+    "index.html": "/index.html",
+    "main.729633d7.css.map": "/static/css/main.729633d7.css.map",
+    "main.76633010.js.map": "/static/js/main.76633010.js.map",
+    "787.a0848885.chunk.js.map": "/static/js/787.a0848885.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.62b3cd97.css",
-    "static/js/main.3ce2a29a.js"
+    "static/css/main.729633d7.css",
+    "static/js/main.76633010.js"
   ]
 }
