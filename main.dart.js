@@ -24707,7 +24707,7 @@ s=q}while(true)switch(s){case 0:q=3
 A.cN("Start of initialization")
 a0=$.Xa()
 s=6
-return A.N(a0.pm("categories.json"),$async$cM)
+return A.N(a0.pm("assets/categories.json"),$async$cM)
 case 6:o=a6
 n=B.as.dq(0,o)
 a1=$.qv()
@@ -24723,7 +24723,7 @@ s=9
 return A.N(J.nH(m,l),$async$cM)
 case 9:A.cN("Processed categories")
 s=10
-return A.N(a0.pm("chunk_hypotheses.json"),$async$cM)
+return A.N(a0.pm("assets/chunk_hypotheses.json"),$async$cM)
 case 10:o=a6
 n=B.as.dq(0,o)
 a2=t.Yj
@@ -24738,7 +24738,7 @@ s=13
 return A.N(J.nH(k,j),$async$cM)
 case 13:A.cN("Processed chunk_hypotheses")
 s=14
-return A.N(a0.pm("hypotheses.json"),$async$cM)
+return A.N(a0.pm("assets/hypotheses.json"),$async$cM)
 case 14:o=a6
 n=B.as.dq(0,o)
 a2=t.H2
@@ -24753,7 +24753,7 @@ s=17
 return A.N(J.nH(i,h),$async$cM)
 case 17:A.cN("Processed hypotheses")
 s=18
-return A.N(a0.pm("letter_chunks.json"),$async$cM)
+return A.N(a0.pm("assets/letter_chunks.json"),$async$cM)
 case 18:o=a6
 n=B.as.dq(0,o)
 a2=t.Gv
@@ -24768,7 +24768,7 @@ s=21
 return A.N(J.nH(g,f),$async$cM)
 case 21:A.cN("Processed letter_chunks")
 s=22
-return A.N(a0.pm("letter_composites.json"),$async$cM)
+return A.N(a0.pm("assets/letter_composites.json"),$async$cM)
 case 22:o=a6
 n=B.as.dq(0,o)
 a2=t.GQ
@@ -24783,7 +24783,7 @@ s=25
 return A.N(J.nH(e,d),$async$cM)
 case 25:A.cN("Processed letter_composites")
 s=26
-return A.N(a0.pm("letters.json"),$async$cM)
+return A.N(a0.pm("assets/letters.json"),$async$cM)
 case 26:o=a6
 n=B.as.dq(0,o)
 a0=t.Pw
